@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625836315 source:c:\users\aymal\documents\visual studio 2010\microbus fare calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
